@@ -30,7 +30,32 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Welcome<h1>
+<table border=2>
+<tr>
+<th>Company</th> <th>Revenue</th> <th>Financial Year</th>
+</tr>
+<tr>
+<td>Micro Soft</td> <td>$9034</td> <td>2014</td>
+</tr>
+<tr>
+<td>Amazon</td> <td>$8904</td> <td>2014</td>
+</tr>
+<tr>
+<td>Apple</td> <td>$1233</td> <td>2014</td>
+</tr>
+<tr>
+<td>Flipkart</td> <td>$6789</td> <td>2014</td>
+</tr>
+<tr>
+<td>Stofinex</td> <td>$9889</td> <td>2014</td>
+</tr>
+<tr>
+<td>TCS</td> <td>$8589</td> <td>2014</td>
+</tr>
+<tr>
+<td>Infy</td> <td>$8967</td> <td>2014</td>
+</tr>
+</table>
 </body>
 </html>
 """
@@ -48,6 +73,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-
+![alt text](<Screenshot 2024-03-13 155527.png>)
+![alt text](<Screenshot 2024-03-13 155613.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.

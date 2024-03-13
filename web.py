@@ -13,6 +13,24 @@ content = """
 <tr>
 <td>Micro Soft</td> <td>$9034</td> <td>2014</td>
 </tr>
+<tr>
+<td>Amazon</td> <td>$8904</td> <td>2014</td>
+</tr>
+<tr>
+<td>Apple</td> <td>$1233</td> <td>2014</td>
+</tr>
+<tr>
+<td>Flipkart</td> <td>$6789</td> <td>2014</td>
+</tr>
+<tr>
+<td>Stofinex</td> <td>$9889</td> <td>2014</td>
+</tr>
+<tr>
+<td>TCS</td> <td>$8589</td> <td>2014</td>
+</tr>
+<tr>
+<td>Infy</td> <td>$8967</td> <td>2014</td>
+</tr>
 </table>
 </body>
 </html>
